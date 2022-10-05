@@ -1,1 +1,1 @@
-alx-system_engineering-devops repo
+Display current directory contents
